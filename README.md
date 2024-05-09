@@ -10,4 +10,4 @@
 
 😄 Pronouns: He
 
-⚡ Fun fact: I started learning programming at the age of 44 and confidently continue my journey towards new achievements in this field.
+⚡ Fun fact: I started learning programming at the age of 43 and confidently continue my journey towards new achievements in this field.
