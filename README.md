@@ -12,6 +12,36 @@
 
 ⚡ Fun fact: I started learning programming at the age of 43 and confidently continue my journey towards new achievements in this field.
 
+
+## Навички та Технології
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
+![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-EA5906?style=flat-square&logo=webdriverio)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright)
+![Appium](https://img.shields.io/badge/-Appium-472889?style=flat-square&logo=appium)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server)
+
+
+## Моя GitHub Статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadiim&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gadiim&theme=radical)](https://git.io/streak-stats)
+
+## How to reach me
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/hennadii-melnyk-26571b24a/)
+
+
+
+
+
 ## Skills & Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
