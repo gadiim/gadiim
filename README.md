@@ -33,6 +33,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadiim&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gadiim&theme=radical)](https://git.io/streak-stats)
 
+## Зірки для Репозиторіїв 
+![Repo Stars](https://img.shields.io/github/stars/gadiim/назва-репозиторію?style=social)
+
 ## How to reach me
 - Email: [your.email@example.com](mailto:your.email@example.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hennadii-melnyk-26571b24a/)
@@ -40,8 +43,6 @@
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadiim&layout=compact&theme=radical)
 
-## Top Contributed Repo
-![Top Contributed Repo](https://github-readme-streak-stats.herokuapp.com/?user=gadiim&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gadiim&color=brightgreen)
 
