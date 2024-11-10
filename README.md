@@ -31,7 +31,7 @@
 
 
 ## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gadiim&theme=radical)](url)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gadiim&theme=radical)]
 
 
 
