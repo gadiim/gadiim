@@ -39,11 +39,10 @@
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadiim&layout=compact&theme=radical)
-[![Profile Views](https://komarev.com/ghpvc/?username=gadiim&color=brightgreen)
 
-## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gadiim&theme=radical)]
+## Top Contributed Repo
+![Top Contributed Repo](https://github-readme-streak-stats.herokuapp.com/?user=gadiim&theme=radical)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=gadiim&color=brightgreen)
 
 
