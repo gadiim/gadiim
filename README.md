@@ -6,12 +6,12 @@
 
 
 ## Skills & Technologies
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
