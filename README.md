@@ -12,6 +12,20 @@
 
 ⚡ Fun fact: I started learning programming at the age of 43 and confidently continue my journey towards new achievements in this field.
 
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadiim&layout=compact&theme=radical)
+
+## Wakatime Stats
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gadiim&theme=radical)
+
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadiim&show_icons=true&theme=radical)
+
+## GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gadiim&theme=radical)
+
+## Contribution Graph
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=gadiim&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
