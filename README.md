@@ -35,7 +35,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadiim&layout=compact&theme=radical)](https://git.io/top-languages)
 
 ## How to reach me
-- Email: [gmelnik@bigmir.net](mailto:your.email@example.com)
+- Email: [gmelnik@bigmir.net](gmelnik@bigmir.net)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hennadii-melnyk-26571b24a/)
 
 
