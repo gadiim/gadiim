@@ -21,12 +21,17 @@
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadiim&show_icons=true&theme=radical)
 
-## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gadiim&theme=radical)
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=gadiim&color=brightgreen)
+
+
+[## GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gadiim&theme=radical)](url)
 
 ## Contribution Graph
 [![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=gadiim&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+## Wakatime Stats
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gadiim&theme=radical)
 
 
