@@ -11,3 +11,7 @@
 😄 Pronouns: He
 
 ⚡ Fun fact: I started learning programming at the age of 43 and confidently continue my journey towards new achievements in this field.
+
+## My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadiim&show_icons=true&theme=radical)
+
