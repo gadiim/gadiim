@@ -15,17 +15,21 @@
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadiim&layout=compact&theme=radical)
 
-## Wakatime Stats
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gadiim&theme=radical)
-
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadiim&show_icons=true&theme=radical)
+
+## My Gists
+- [Gist 1](https://gist.github.com/gadiim/1234567890abcdef)
+- [Gist 2](https://gist.github.com/gadiim/abcdef1234567890)
+
 
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=gadiim&color=brightgreen)
 
 
-[## GitHub Trophies
+
+
+## GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gadiim&theme=radical)](url)
 
 ## Contribution Graph
