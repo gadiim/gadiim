@@ -18,9 +18,10 @@
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadiim&show_icons=true&theme=radical)
 
-## My Gists
-- [Gist 1](https://gist.github.com/gadiim/1234567890abcdef)
-- [Gist 2](https://gist.github.com/gadiim/abcdef1234567890)
+## Skills & Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+
 
 
 ## Profile Views
