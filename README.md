@@ -34,7 +34,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gadiim&theme=radical)](https://git.io/streak-stats)
 
 ## Зірки для Репозиторіїв 
-![Repo Stars](https://img.shields.io/github/stars/gadiim/назва-репозиторію?style=social)
+![Repo Stars](https://img.shields.io/github/stars/gadiim/Repository?style=social)
 
 ## How to reach me
 - Email: [your.email@example.com](mailto:your.email@example.com)
