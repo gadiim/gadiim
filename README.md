@@ -20,10 +20,7 @@
 ![Postman](https://img.shields.io/badge/Postman-Intermediate-FF6C37?style=for-the-badge&logo=postman)  
 
 ### UI Design
-![HTML](https://img.shields.io/badge/HTML-Intermediate-red?style=for-the-badge&logo=html5)  
-![CSS](https://img.shields.io/badge/CSS-Intermediate-blue?style=for-the-badge&logo=css3)  
-![React](https://img.shields.io/badge/React-Intermediate%2FAdvanced-61DAFB?style=for-the-badge&logo=react)  
-![Angular](https://img.shields.io/badge/Angular-Intermediate%2FAdvanced-DD0031?style=for-the-badge&logo=angular)  
+![HTML](https://img.shields.io/badge/HTML-Intermediate-red?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue?style=for-the-badge&logo=css3) ![React](https://img.shields.io/badge/React-Intermediate%2FAdvanced-61DAFB?style=for-the-badge&logo=react) ![Angular](https://img.shields.io/badge/Angular-Intermediate%2FAdvanced-DD0031?style=for-the-badge&logo=angular)  
 
 
 ### Database Systems
