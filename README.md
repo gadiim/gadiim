@@ -18,13 +18,15 @@
 ![Playwright](https://img.shields.io/badge/Playwright-Intermediate%2FAdvanced-2EAD33?style=for-the-badge&logo=playwright)  
 ![Appium](https://img.shields.io/badge/Appium-Intermediate-472889?style=for-the-badge&logo=appium)  
 ![Postman](https://img.shields.io/badge/Postman-Intermediate-FF6C37?style=for-the-badge&logo=postman)  
-![MS SQL](https://img.shields.io/badge/MS%20SQL-Intermediate%2FAdvanced-CC2927?style=for-the-badge&logo=microsoft-sql-server)
+
 ### UI Design
-
-
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5) ![HTML Level](https://img.shields.io/badge/Intermediate-2E2E2E?style=for-the-badge&logo=none)  
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3) ![CSS Level](https://img.shields.io/badge/Intermediate-2E2E2E?style=for-the-badge&logo=none)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) ![React Level](https://img.shields.io/badge/Intermediate%2FAdvanced-2E2E2E?style=for-the-badge&logo=none)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular) ![Angular Level](https://img.shields.io/badge/Intermediate%2FAdvanced-2E2E2E?style=for-the-badge&logo=none)
 
 ### Database Systems
-
+![MS SQL](https://img.shields.io/badge/MS%20SQL-Basic%2FIntermediate-CC2927?style=for-the-badge&logo=microsoft-sql-server)
 
 ### Other
 ![C++](https://img.shields.io/badge/C%2B%2B-Basic%2FIntermediate-00599C?style=for-the-badge&logo=c%2B%2B)
