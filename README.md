@@ -60,7 +60,8 @@
 ![Linux](https://img.shields.io/badge/Linux-Intermediate-FCC624?style=for-the-badge&logo=linux)  
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker)  
 ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-Intermediate-5C2D91?style=for-the-badge&logo=visualstudiocode)  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Intermediate-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Intermediate-007ACC?style=for-the-badge&logo=visual-studio-code)
+
 
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadiim)
