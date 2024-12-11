@@ -3,11 +3,10 @@
 
 ### QA Automation Engineer | Full-stack Developer
 
-[![Location](https://img.shields.io/badge/Location-Ukraine-0078D7?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gadiim)
-
 ## About Me
 I focus on automating tests and building reliable software. With experience in both QA automation and full-stack development, I aim to create efficient workflows and deliver quality applications.
+[![Location](https://img.shields.io/badge/Location-Ukraine-0078D7?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gadiim)
 
 ## Skills & Technologies
 
@@ -49,8 +48,10 @@ I focus on automating tests and building reliable software. With experience in b
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hennadii-melnyk-26571b24a/)
 
 
+<div align="right">
+  ![Profile Views](https://komarev.com/ghpvc/?username=gadiim&color=brightgreen)
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gadiim&color=brightgreen)
 
 
 
