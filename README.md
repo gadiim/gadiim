@@ -3,7 +3,6 @@
 
 ### QA Automation Engineer | Full-stack Developer
 
-## About Me
 I focus on automating tests and building reliable software. With experience in both QA automation and full-stack development, I aim to create efficient workflows and deliver quality applications.
 [![Location](https://img.shields.io/badge/Location-Ukraine-0078D7?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gadiim)
