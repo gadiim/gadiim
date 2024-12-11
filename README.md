@@ -20,7 +20,11 @@
 ![Postman](https://img.shields.io/badge/Postman-Intermediate-FF6C37?style=for-the-badge&logo=postman)  
 
 ### UI Design
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5) ![HTML Level](https://img.shields.io/badge/Intermediate-2E2E2E?style=for-the-badge&logo=none) ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3) ![CSS Level](https://img.shields.io/badge/Intermediate-2E2E2E?style=for-the-badge&logo=none) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) ![React Level](https://img.shields.io/badge/Intermediate%2FAdvanced-2E2E2E?style=for-the-badge&logo=none) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular) ![Angular Level](https://img.shields.io/badge/Intermediate%2FAdvanced-2E2E2E?style=for-the-badge&logo=none)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-red?style=for-the-badge&logo=html5)  
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue?style=for-the-badge&logo=css3)  
+![React](https://img.shields.io/badge/React-Intermediate%2FAdvanced-61DAFB?style=for-the-badge&logo=react)  
+![Angular](https://img.shields.io/badge/Angular-Intermediate%2FAdvanced-DD0031?style=for-the-badge&logo=angular)  
+
 
 ### Database Systems
 ![MS SQL](https://img.shields.io/badge/MS%20SQL-Basic%2FIntermediate-CC2927?style=for-the-badge&logo=microsoft-sql-server)
