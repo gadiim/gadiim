@@ -23,8 +23,8 @@
 
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadiim)
-[![GitHub Streak](https://streak-stats.demolab.com?user=gadiim)]
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadiim)]
+![GitHub Streak](https://streak-stats.demolab.com?user=gadiim)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadiim)
 
 ## How to reach me
 - Email: [gmelnik@bigmir.net](gmelnik@bigmir.net)
