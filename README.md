@@ -4,7 +4,7 @@
 
 
 ## Skills & Technologies
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/C%2B%2B-Basic%2FIntermediate-00599C?style=for-the-badge&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
