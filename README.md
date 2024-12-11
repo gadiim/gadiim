@@ -48,7 +48,8 @@ I focus on automating tests and building reliable software. With experience in b
 
 ##
 
-![Profile Views](https://github-readme-stats.vercel.app/api/top-langs/?username=gadiim)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-12345-brightgreen)
+
 
 
 
