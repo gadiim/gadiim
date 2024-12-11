@@ -22,7 +22,7 @@
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server)
 
 ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadiim)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?user=gadiim)
 ![GitHub Streak](https://streak-stats.demolab.com?user=gadiim)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadiim)
 
