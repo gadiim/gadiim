@@ -5,9 +5,10 @@
 
 ## Skills & Technologies
 
-###Programming Languages
+### Programming Languages
+
 ![C++](https://img.shields.io/badge/C%2B%2B-Basic%2FIntermediate-00599C?style=for-the-badge&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/C%2B%2B-Basic%2FIntermediate-00599C?style=for-the-badge&logo=c-sharp)
+![C#](https://img.shields.io/badge/-C%23-Intermediate-00599C?style=for-the-badge&logo=c-sharp)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
