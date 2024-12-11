@@ -1,14 +1,13 @@
-👋 Hi, I’m QA Automation Engineer | Full-stack developer
 
-[![Location](https://img.shields.io/badge/Location-Ukraine-0078D7?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gadiim)
+## 👋 Hi, I’m gadiim.
 
-# 👋 Hi, I’m QA Automation Engineer | Full-stack Developer
+### QA Automation Engineer | Full-stack Developer
 
 [![Location](https://img.shields.io/badge/Location-Ukraine-0078D7?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gadiim)
 
 ## About Me
-I am passionate about automating testing and building reliable software systems. With a background in both QA automation and full-stack development, I specialize in creating efficient workflows and high-quality applications.  
+I focus on automating tests and building reliable software. With experience in both QA automation and full-stack development, I aim to create efficient workflows and deliver quality applications.
 
 ## Skills & Technologies
 
