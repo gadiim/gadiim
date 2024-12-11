@@ -22,9 +22,9 @@
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server)
 
 ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadiim&show_icons=true&theme=radical)]
-[![GitHub Streak](https://streak-stats.demolab.com?user=gadiim&show_icons=true&theme=radical)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadiim&layout=compact&theme=radical)](https://git.io/top-languages)]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadiim&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gadiim)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadiim&layout=compact&theme=radical)](https://git.io/top-languages)
 
 ## How to reach me
 - Email: [gmelnik@bigmir.net](gmelnik@bigmir.net)
