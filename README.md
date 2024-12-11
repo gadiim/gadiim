@@ -29,7 +29,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gadiim&color=brightgreen)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-<a href="https://www.linkedin.com/in/hennadii-melnyk-26571b24a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hennadii-melnyk-26571b24a/)
+
