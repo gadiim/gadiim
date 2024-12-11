@@ -46,10 +46,10 @@ I focus on automating tests and building reliable software. With experience in b
 - [![Email Me](https://img.shields.io/badge/Email_Me-1E88E5?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:gmelnik@bigmir.net)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hennadii-melnyk-26571b24a/)
 
+##
 
-<div align="right">
-  ![Profile Views](https://komarev.com/ghpvc/?username=gadiim&color=brightgreen)
-</div>
+![Profile Views](https://github-readme-stats.vercel.app/api/top-langs/?username=gadiim)
+
 
 
 
