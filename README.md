@@ -3,8 +3,10 @@
 
 
 [![Location](https://img.shields.io/badge/Location-Ukraine-0078D7?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gadiim)
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gadiim) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hennadii-melnyk-26571b24a/) 
+[![Email Me](https://img.shields.io/badge/Email_Me-1E88E5?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:gmelnik@bigmir.net)
+##
 ### QA Automation Engineer | Full-stack Developer
 I focus on automating tests and building reliable software. With experience in both QA automation and full-stack development, I aim to create efficient workflows and deliver quality applications.
 
@@ -42,10 +44,6 @@ I focus on automating tests and building reliable software. With experience in b
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadiim)
 ![GitHub Streak](https://streak-stats.demolab.com?user=gadiim)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gadiim)
-
-## How to reach me
-- [![Email Me](https://img.shields.io/badge/Email_Me-1E88E5?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:gmelnik@bigmir.net)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hennadii-melnyk-26571b24a/)
 
 ##
 
