@@ -25,9 +25,10 @@
 ## How to reach me
 - Email: [gmelnik@bigmir.net](gmelnik@bigmir.net)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hennadii-melnyk-26571b24a/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hennadii-melnyk-26571b24a/)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gadiim&color=brightgreen)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hennadii-melnyk-26571b24a/)
+
 
