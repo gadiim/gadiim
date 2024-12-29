@@ -49,8 +49,8 @@ I focus on automating tests and building reliable software. With experience in b
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gadiim&color=brightgreen)
 ![Watchers](https://img.shields.io/github/watchers/gadiim/gadiim.svg)
-
-
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=gadiim&color=brightgreen">
+<img alt="Watchers" src="https://img.shields.io/github/watchers/gadiim/Pac-Man.svg">
 ![Profile Views](https://img.shields.io/github/?username=gadiim&style=flat-square&color=brightgreen)
 ![Watchers](https://img.shields.io/github/watchers/gadiim/gadiim.svg?style=flat-square)
 
