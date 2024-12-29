@@ -47,8 +47,8 @@ I focus on automating tests and building reliable software. With experience in b
 
 ##
 
- ![Profile Views](https://komarev.com/ghpvc/?username=gadiim&color=brightgreen)
-
+![Profile Views](https://komarev.com/ghpvc/?username=gadiim&color=brightgreen)
+![Watchers](https://img.shields.io/github/watchers/gadiim/gadiim.svg)
 
 
 
